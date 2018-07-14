@@ -1,5 +1,7 @@
 # AngularWorldmapsExamples
 
+Just an example of use of [ng2-google-chart](https://github.com/gmazzamuto/ng2-google-charts)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
